@@ -4,8 +4,6 @@ The ReadTheDocs wiki (https://osquery.readthedocs.org/en/stable) is generated us
 
 ### Adding a new page
 
-Testing
-
 New wiki pages should be organized into one of the following categories:
 
 - **Introduction**: Overview of the project or a tool.
